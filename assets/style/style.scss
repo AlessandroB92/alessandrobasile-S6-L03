@@ -1,0 +1,19 @@
+@import "color";
+@import "font";
+
+header, main{
+    background-color: $hero;
+    div{
+        background-color: $hero;
+    }
+}
+h1{
+    font-size: $fontSize;
+}
+
+button, p {
+    color: $fontColor;
+}
+a{
+    color: $fontColor;
+}

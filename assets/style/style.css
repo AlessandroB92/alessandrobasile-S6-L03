@@ -1,0 +1,18 @@
+header, main {
+  background-color: #640fc5;
+}
+header div, main div {
+  background-color: #640fc5;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+button, p {
+  color: #f4f4f4;
+}
+
+a {
+  color: #f4f4f4;
+}/*# sourceMappingURL=style.css.map */
